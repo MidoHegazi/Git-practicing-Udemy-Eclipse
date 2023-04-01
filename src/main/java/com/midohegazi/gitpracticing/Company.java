@@ -7,5 +7,7 @@ public class Company {
 	private String pIva;
 	
 	
-
+	public String getName() {
+		return this.name;
+	}
 }
