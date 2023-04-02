@@ -13,6 +13,7 @@ public class Company {
 	public String getAddress(){
 	   return this.address; 
 	}
+
 	
 	public String getPartitaIva() {
 		return this.pIva;
@@ -20,5 +21,6 @@ public class Company {
 	
 	public String getNameAndAddress() {
 		return "Name : "+this.name +"Address : "+ this.address; 
+
 	}
 }
