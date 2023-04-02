@@ -23,4 +23,7 @@ public class Company {
 		return "Name : "+this.name +"Address : "+ this.address; 
 
 	}
+	public void printName() {
+		System.out.println(name);
+	}
 }
