@@ -13,4 +13,7 @@ public class Company {
 	public String getAddress(){
 	   return this.address; 
 	}
+	public String getPIva(){
+	   return this.pIva;
+	}
 }
