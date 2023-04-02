@@ -23,4 +23,6 @@ public class Company {
 		return "Name : "+this.name +"Address : "+ this.address; 
 
 	}
+	// Comment "TODO"
+	/**Mido try to implement something that goes through**/
 }
